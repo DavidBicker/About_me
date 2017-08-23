@@ -1,0 +1,15 @@
+body {
+    background-color: lightgreen;
+}
+.hobbies {
+    display: center;
+}
+hobbies p.list {
+    display: center;
+    color: blue
+}
+.injuries {
+    display: block;
+    border: 5px solid black;
+    text-align: center;
+}
